@@ -20,7 +20,7 @@ const Body = () => {
             Lack Of Technical Knowledge?
           </h2>
           <p className="text-lg max-w-2xl mx-auto text-center text-gray-600 mb-8">
-            Our team of experienced designers and developers is here to guide you. We'll ensure your website is not only functional but also user-friendly and visually appealing.
+            Our team of experienced designers and developers is here to guide you. We will ensure your website is not only functional but also user-friendly and visually appealing.
           </p>
           <button className="px-8 py-3 bg-pink-500 text-white text-lg font-semibold rounded-lg shadow-sm hover:bg-pink-500 transition duration-200 mx-auto block">
             Learn More
