@@ -3,7 +3,7 @@ import logo from '../../public/logo.png'
 const Navbar = () => {
     return (
       <div className="h-16  z-1000  w-full bg-pink-900 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 border border-gray-100 sticky top-0 text-black flex items-center justify-between px-6 shadow-lg">
-        <div className="logo text-3xl font-bold">
+        <div className="logo  lg:block hidden text-3xl font-bold">
           <img src={logo} className="h-20"  alt="" />
         </div>
         <div className="nav-links space-x-6">
